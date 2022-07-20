@@ -1,0 +1,52 @@
+body{
+    
+    margin:200px 200px 200px 200px;
+    /* background-color: rgb(96, 95, 95); */
+    
+   
+}
+
+h2{
+    border: 2px green solid;
+    border-radius: 5px;
+    text-align: center;
+    padding:20px;
+}
+p{
+    border: 2px green solid;
+    border-radius: 5px;
+    text-align: center;
+    padding-bottom: 25%;
+    padding-top: 15px;
+
+}
+
+img{
+    width: 100%;
+}
+
+.first{
+    border: 2px green solid;
+    padding : 2% 6%;
+}
+.fi{
+    width:25%;
+    /* padding-left: 10%; */
+    
+    
+}
+
+.sec{
+    width:10%;
+    padding-left: 10%;
+}
+
+.thi{
+    width:10%;
+    padding-left:10%;
+}
+
+.fo{
+    width:25%;
+    padding-left: 8%;
+}

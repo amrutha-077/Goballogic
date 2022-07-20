@@ -1,0 +1,33 @@
+
+.first img{
+    position: relative;
+    top:20%;
+    left:50%;
+   }
+   
+.card-img-top{
+    width:90%;
+    height: 40%;
+}
+card{
+    gap:5%;
+}
+
+card:hover{
+    /* background-color:antiquewhite; */
+
+    transform: scale(1.05);
+     box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+   }
+
+button{
+    width: 75%;
+}
+
+    
+
+a{
+    text-decoration: none;
+    color:white;
+    
+}

@@ -1,0 +1,51 @@
+body{
+    background-image: url("C:\Users\amrutha.1\Desktop\week2\pic\7.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* height: 1000%; */
+    /* background-position:center; */
+    position: sticky;
+
+}
+.container{
+    position:absolute;
+    left: 50%;
+    top:100%;
+    transform: translate(-50%,-50%);
+    font-style: oblique;
+    font-weight: 1000px;
+}
+h1{
+    text-align: center;
+}
+.parent{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+    background-color: orange;
+    /* text-align: center; */
+    padding-top: 5px;
+}
+.c11{
+    /* background-color:darkolivegreen ; */
+    width: max-content;
+}
+
+.c-h{
+    height: 30px;
+}
+.first{
+    display: flex;
+    width:100px;
+    height:150px;
+    gap: 100%;
+    /* border-radius:5%; */
+    flex-direction: row;
+    position: relative;
+    top: 600px;
+    bottom: 50px;
+    left: 150px;
+}
+
+
+

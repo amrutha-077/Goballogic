@@ -1,0 +1,64 @@
+body{
+    margin: 200px 200px 200px;
+    border: 5px black solid;
+    
+}
+h1,h2{
+    text-align: center; 
+}
+
+.centre{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35;
+    
+}
+
+p,li{
+    text-align: center;
+    font-size: large;
+    font-weight: 100;
+    font-style: oblique;
+}
+
+.parent{
+display: grid;
+margin: 50px;
+padding: 10px 20px 10px 20px;
+grid-template-columns: 33% 33% 33%;
+grid-template-rows: 220px 220px;
+gap: 15px;
+}
+
+.c11{
+    border: 1px black solid;
+    background-color: antiquewhite;
+    
+}
+
+.c12{
+    border: 1px black solid;
+    background-color: antiquewhite;
+    
+}
+
+.c13{
+    border: 1px black solid;
+    background-color: antiquewhite;
+
+   
+}
+
+.c21{
+    border: 1px black solid;
+    background-color: antiquewhite;
+
+    ;
+}
+
+.c22{
+    border: 1px black solid;
+    background-color: antiquewhite;
+
+}
