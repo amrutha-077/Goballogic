@@ -1,0 +1,64 @@
+{
+  "empDetails": [
+    {
+      "fname": "Druthi",
+      "email": "dru@gmail.com",
+      "phone": "2345678900",
+      "id": 1658839019779
+    },
+    {
+      "fname": "Deeksha",
+      "email": "deeksha@gmail.com",
+      "phone": "12345678901",
+      "id": 1658850108425
+    },
+    {
+      "fname": "Gayathri",
+      "email": "gayathri@gmail.com",
+      "phone": "2345678900",
+      "id": 1658850191886
+    },
+    {
+      "fname": "Bhoomika",
+      "email": "bhoomi@gmail.com",
+      "phone": "23456789001",
+      "id": 1658850256111
+    },
+    {
+      "fname": "Kushi",
+      "email": "kushi@gmail.com",
+      "phone": "2345678900",
+      "id": 1658850297021
+    },
+    {
+      "fname": "Anjana",
+      "email": "anju@gmail.com",
+      "phone": "1234567890100",
+      "id": 1658850340403
+    },
+    {
+      "fname": "Uday",
+      "email": "uday@gmail.com",
+      "phone": "2345678900",
+      "id": 1658850489582
+    },
+    {
+      "fname": "Deekshith",
+      "email": "deek@gmail.com",
+      "phone": "12345678901011",
+      "id": 1658852158620
+    },
+    {
+      "fname": "Deepthi",
+      "email": "dee@gmail.com",
+      "phone": "2345678900",
+      "id": 1658852160774
+    },
+    {
+      "fname": "Hitha",
+      "email": "hitha@gmail.com",
+      "phone": "23456789001",
+      "id": 1658852526675
+    }
+  ]
+}
